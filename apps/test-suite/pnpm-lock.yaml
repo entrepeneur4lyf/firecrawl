@@ -47,7 +47,7 @@ importers:
         specifier: ^5.10.2
         version: 5.10.2(ws@5.2.4)(zod@3.24.1)
       playwright:
-        specifier: '>=1.55.1'
+        specifier: ^1.56.1
         version: 1.56.1
       supertest:
         specifier: ^7.1.4
@@ -1047,6 +1047,7 @@ packages:
   '@opentelemetry/otlp-proto-exporter-base@0.41.2':
     resolution: {integrity: sha512-BxmEMiP6tHiFroe5/dTt9BsxCci7BTLtF7A6d4DKHLiLweWWZxQ9l7hON7qt/IhpKrQcAFD1OzZ1Gq2ZkNzhCw==}
     engines: {node: '>=14'}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
     peerDependencies:
       '@opentelemetry/api': ^1.0.0
 
